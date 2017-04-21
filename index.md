@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/2017zhang/three/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2017zhang/three/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYP html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <title>任务三-魔镜</title>
+    <style type="text/css">
+	<!--body{background:url(imgs/00.png)}-->
+	.title1{position:fixed;left:4%;top:2%;}
+	.title2{display:dlock;margin-top:9%;text-align:center;}
+	.title3{position:fixed;left:15%;top:70%;}
+	.title4{position:fixed;left:70%;top:70%;}
+	.text{position:fixed;top:30%;left:20%;dottom:0;right:20%;color:#fff;font-size:27px;line-height:50px;}
+    </style>
+</head>
+<body>
+	<div class="title1"><img src="imgs/01.png"width="54px" height="54px"></div>
+	<div class="title2"><img src="imgs/02.png"width="194px" height="72px"></div>
+	<div class="text">
+	    <p>葡萄藤轻游戏专注于桌游领域，特供在线杀人游戏，捉鬼，炸狼堡等多种聚会游戏，以线下聚会桌游道具。</p>
+	</div>
+	<div class="title3"><img src="imgs/03.png"width="121px" height="133px"></div>
+	<div class="title4"><img src="imgs/04.png"width="106px" height="130px"></div>
+</body>
+</html>
