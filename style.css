@@ -2,7 +2,7 @@
 
  .box{background-color: #68cdd5;min-width:90px}
  .title1{position:fixed;left:40px;top:20px;}
- .title2{display:dlock;margin-top:9%;text-align:center;}
+ .title2{display:dlock;margin-top:13%;text-align:center;}
   .title3{position:fixed;left:12%;top:70%;}
  .title4{position:fixed;right:12%;top:71.4%;}
  .text{position:fixed;top:30%;left:20%;dottom:0;right:20%;color:#fff;font-size:4vh;}
